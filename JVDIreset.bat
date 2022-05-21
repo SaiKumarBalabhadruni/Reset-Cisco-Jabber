@@ -2,8 +2,8 @@
 
 REM Project Name: Jabber and JVDI Client Reset Batch file
 REM https://github.com/SaiKumarBalabhadruni
-REM Author: Sai Kumar balabhadruni
-REM Website: skb.earth
+REM Sai Kumar balabhadruni
+REM wiselifer.com and skb.earth
 REM Description: Restarts and Resets Jabber and Jabber client services on local Desktop.
 
 taskkill /IM "vxc.exe" /F
